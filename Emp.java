@@ -21,11 +21,11 @@ class Emp
 
 	public static void main(String args[])
 	{
-	Emp e1=new Emp("Prashant");
-	e1.setsal(300000);
+	Emp e1=new Emp("Akash");
+	e1.setsal(500000);
 	e1.printemp();
 
-	Emp e2=new Emp("Kunal");
+	Emp e2=new Emp("Ajay");
 	e2.setsal(400000);
 	e2.printemp();
 	}
