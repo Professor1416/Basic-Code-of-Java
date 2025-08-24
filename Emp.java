@@ -15,8 +15,8 @@ class Emp
 
 	public void printemp()
 	{
-	System.out.println("the value of n is :"+n);
-	System.out.println("the value of s is :"+s);
+	System.out.println("the Salary of n is :"+n);
+	System.out.println("the Salary of s is :"+s);
 	}
 
 	public static void main(String args[])
